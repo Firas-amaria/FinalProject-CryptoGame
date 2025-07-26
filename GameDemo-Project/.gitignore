@@ -1,0 +1,36 @@
+# Ignore unnecessary Unity files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+.vs/
+.idea/
+.vscode/
+UserSettings/
+
+
+# Ignore Unity-generated metadata files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Ignore generated folders
+ExportedObj/
+.gradle/
+UserSettings/Layouts/default-6000.dwlt
+/UserSettings
+/UserSettings/
+UserSettings/

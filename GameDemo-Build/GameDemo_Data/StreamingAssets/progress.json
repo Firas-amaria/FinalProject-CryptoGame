@@ -1,0 +1,17 @@
+{
+    "currentRoom": "Room 1",
+    "unlockedBooks": [],
+    "unlockedCiphers": [
+        "Caesar"
+    ],
+    "interactionHintsShown": [
+        {
+            "id": "Tutorial",
+            "seen": true
+        },
+        {
+            "id": "PressX",
+            "seen": true
+        }
+    ]
+}
